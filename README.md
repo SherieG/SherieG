@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SherieG
-- 👀 I’m interested in a little bit of everything honestly but mostly creating apps and games and building/updating websites
-- 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am a full-stack JavaScript developer who does it all but enjoys woring with Front-end most
+- 🌱 I’m currently in the iOS Mobile Developer program at Southern Career Institute powered by WozU
+- 💞️ I’m looking to collaborate on anythiing really. I love working with people and learning new things.
+- 📫 You can reach me at sheriegsolutions@gmail.com
 
 <!---
 SherieG/SherieG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
